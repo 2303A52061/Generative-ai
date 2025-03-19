@@ -5,3 +5,4 @@ https://github.com/2303A52061/Generative-ai/blob/main/GAI_A3.ipynb
 https://github.com/2303A52061/Generative-ai/blob/main/Assignment4.ipynb
 https://github.com/2303A52061/Generative-ai/blob/main/genai_assignment_5.ipynb
 https://github.com/2303A52061/Generative-ai/blob/main/assi06.ipynb
+https://github.com/2303A52061/Generative-ai/blob/main/assi%208
